@@ -32,13 +32,19 @@ if(plant && plant.name){
 }
 return false
 })
-
+// delete
+function onDeletePlant(id){
+  const updatedPlantsArray = plants.filter((plant) => plant.id !== id);
+  setPlants(updatedPlantsArray);
+}
 
   return (
     <main>
       <NewPlantForm  onAddPlant={handleAddPlant} />
       <Search search={search} setSearch={setSearch}/>
-      <PlantList plants={displayedPlants}/>
+      <PlantList plants={displayedPlants}
+      onDeletePlant={onDeletePlant}
+      />
     </main>
   );
 }

@@ -1,12 +1,6 @@
 {
   "plants": [
     {
-      "id": 1,
-      "name": "Aloe",
-      "image": "./images/aloe.jpg",
-      "price": 15.99
-    },
-    {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
@@ -65,12 +59,6 @@
     },
     {
       "id": 15
-    },
-    {
-      "name": "aloe vera",
-      "image": "https://en.wikipedia.org/wiki/IMG_Academy#/media/File:IMG_Academy_Logo.svg",
-      "price": 10,
-      "id": 16
     },
     {
       "name": "aloe vera",

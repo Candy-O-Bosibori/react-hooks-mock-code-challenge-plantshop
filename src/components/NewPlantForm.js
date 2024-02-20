@@ -51,6 +51,8 @@ function NewPlantForm({ onAddPlant }) {
           onChange={(e) => setPrice(parseFloat(e.target.value))}
         />
         <button type="submit">Add Plant</button>
+
+        
       </form>
     </div>
   );
