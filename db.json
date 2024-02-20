@@ -41,6 +41,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "name": "aloe vera",
+      "image": "https://en.wikipedia.org/wiki/IMG_Academy#/media/File:IMG_Academy_Logo.svg",
+      "price": 10,
+      "id": 16
+    },
+    {
+      "name": "aloe vera",
+      "image": "https://media.istockphoto.com/id/658291850/photo/young-plant-growing-in-sunlight.webp?b=1&s=612x612&w=0&k=20&c=2GzCZo0bk2D4MI36gvrCke4CWa7J4qoh5Wfzy_f_pjs=",
+      "price": 10,
+      "id": 17
     }
   ]
 }
